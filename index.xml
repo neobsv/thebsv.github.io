@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Mar 2024 22:15:48 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Travels: India</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Thu, 21 Mar 2024 22:15:48 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <description>Life in India Back home Lots of struggle initially, jobless for a year!&#xA;Too many people!&#xA;However, right now, I&amp;rsquo;m okay&#xA;cool</description>
+    </item>
+    <item>
+      <title>Travels: Canada</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Thu, 21 Mar 2024 22:14:43 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>Life in Canada Pretty anxiety inducing, sometimes lonely, overall great&#xA;okay</description>
+    </item>
+    <item>
+      <title>Travels: USA</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 21 Mar 2024 22:10:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Life in the US Somewhat fun sometimes crazy, overall very nice!&#xA;cool</description>
+    </item>
+  </channel>
+</rss>
