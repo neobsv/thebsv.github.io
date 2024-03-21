@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Personal Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Personal Blog</description>
+    <title>Blog</title>
+    <link>https://thebsv.github.io/</link>
+    <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Mar 2024 22:15:48 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thebsv.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Travels: India</title>
-      <link>http://localhost:1313/posts/my-third-post/</link>
+      <link>https://thebsv.github.io/posts/my-third-post/</link>
       <pubDate>Thu, 21 Mar 2024 22:15:48 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-third-post/</guid>
-      <description>Life in India Back home Lots of struggle initially, jobless for a year!&#xA;Too many people!&#xA;However, right now, I&amp;rsquo;m okay&#xA;cool</description>
+      <guid>https://thebsv.github.io/posts/my-third-post/</guid>
+      <description>Life in India Back home Lots of struggle initially, jobless for a year!
+Too many people!
+However, right now, I&amp;rsquo;m okay
+cool</description>
     </item>
     <item>
       <title>Travels: Canada</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
+      <link>https://thebsv.github.io/posts/my-second-post/</link>
       <pubDate>Thu, 21 Mar 2024 22:14:43 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>Life in Canada Pretty anxiety inducing, sometimes lonely, overall great&#xA;okay</description>
+      <guid>https://thebsv.github.io/posts/my-second-post/</guid>
+      <description>Life in Canada Pretty anxiety inducing, sometimes lonely, overall great
+okay</description>
     </item>
     <item>
       <title>Travels: USA</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://thebsv.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 21 Mar 2024 22:10:00 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Life in the US Somewhat fun sometimes crazy, overall very nice!&#xA;cool</description>
+      <guid>https://thebsv.github.io/posts/my-first-post/</guid>
+      <description>Life in the US Somewhat fun sometimes crazy, overall very nice!
+cool</description>
     </item>
   </channel>
 </rss>
