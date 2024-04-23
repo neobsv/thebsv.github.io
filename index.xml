@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bhargav Srinivasan</title>
-    <link>https://noserve.rs/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Bhargav Srinivasan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 01 Apr 2024 06:17:15 +0530</lastBuildDate>
-    <atom:link href="https://noserve.rs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Summary of the Rust Book</title>
-      <link>https://noserve.rs/posts/rust-book-summary/</link>
+      <link>http://localhost:1313/posts/rust-book-summary/</link>
       <pubDate>Mon, 01 Apr 2024 06:17:15 +0530</pubDate>
-      <guid>https://noserve.rs/posts/rust-book-summary/</guid>
+      <guid>http://localhost:1313/posts/rust-book-summary/</guid>
       <description>Learning Rust with Excerpts and Examples from the Rust Book The GitHub repository for this is here: Learning Rust
 Please click on the star button on the repo on GitHub to support this effort.
 Here is a sentence from the book: &amp;ldquo;Nothing in Rust prevents a trait from having a method with the same name as another trait’s method, nor does Rust prevent you from implementing both traits on one type.</description>
     </item>
     <item>
       <title>Ayu Theme for Vscode</title>
-      <link>https://noserve.rs/posts/ayu-theme/</link>
+      <link>http://localhost:1313/posts/ayu-theme/</link>
       <pubDate>Wed, 27 Mar 2024 22:43:17 +0530</pubDate>
-      <guid>https://noserve.rs/posts/ayu-theme/</guid>
+      <guid>http://localhost:1313/posts/ayu-theme/</guid>
       <description>Ayu Theme Color Pop Vscode Here is my new code editor look: Installing the plain old Ayu Theme was pretty bland by default, and I wasn&amp;rsquo;t able to see some of the text and sidebar icons after enabling the theme.
 I tinkered around a bit and found that I could change these colors by going under Settings -&amp;gt; Workspace -&amp;gt; Appearance and editing the settings.json file directly.
 Don&amp;rsquo;t be scared of messing around with this file, yes it screws up your editor but keep a backup and just hack away.</description>
     </item>
     <item>
       <title>Travels: India</title>
-      <link>https://noserve.rs/posts/my-third-post/</link>
+      <link>http://localhost:1313/posts/my-third-post/</link>
       <pubDate>Thu, 21 Mar 2024 22:15:48 +0530</pubDate>
-      <guid>https://noserve.rs/posts/my-third-post/</guid>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
       <description>Life in India Lots of struggle initially, unemployed for a year!
 Too many people! Bad infrastructure, overall I had horrible experience getting used to the place ngl
 However, right now, I&amp;rsquo;m okay
@@ -38,26 +38,27 @@ cool</description>
     </item>
     <item>
       <title>Travels: Canada</title>
-      <link>https://noserve.rs/posts/my-second-post/</link>
+      <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Thu, 21 Mar 2024 22:14:43 +0530</pubDate>
-      <guid>https://noserve.rs/posts/my-second-post/</guid>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
       <description>Life in Canada Some doctor just idk he certified me not fit for work and they just kept me in a hospital for a while, and wouldn&amp;rsquo;t let me go.
 The worst part was I was forced to take meds that I didn&amp;rsquo;t want/need, but they just didn&amp;rsquo;t listen to me
-I knew it was just a temp thing till I get my citizenship and then I would be back in the US.</description>
+List of meds administered:
+Risperidone, I could not breathe properly after I took this, I felt like I was in some kind of concentation camp.</description>
     </item>
     <item>
       <title>Travels: USA</title>
-      <link>https://noserve.rs/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 21 Mar 2024 22:10:00 +0530</pubDate>
-      <guid>https://noserve.rs/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>Life in the US Most importantly, I learned how to support myself, and everything I needed to know to hone my craft and make a living. Literally nowhere else in the world would I have been able to learn this so well ( to the extent/degree/quality ) of I was taught both in university and during my employment there.
 The only issue is the immigration system, I didn&amp;rsquo;t really like it.</description>
     </item>
     <item>
       <title>Travels: Hong Kong</title>
-      <link>https://noserve.rs/posts/travels-hong-kong/</link>
+      <link>http://localhost:1313/posts/travels-hong-kong/</link>
       <pubDate>Thu, 04 Jan 2024 22:44:03 +0530</pubDate>
-      <guid>https://noserve.rs/posts/travels-hong-kong/</guid>
+      <guid>http://localhost:1313/posts/travels-hong-kong/</guid>
       <description>Raised in Hong Kong The reason I say that I&amp;rsquo;m not actually completely from anywhere in the world, is because I was raised in Hong Kong from a very young age and I spent my entire teenage there.
 It was really amazing, wouldn&amp;rsquo;t have it any other way, the lights, the city nights, the food. Everything was spectacular and I had the most wonderful time there.
 It was really heartbreaking to leave all my friends and people I had gotten close to over the years and head back to India for grade 11, utter disdain.</description>
